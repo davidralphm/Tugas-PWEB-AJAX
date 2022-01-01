@@ -1,0 +1,17 @@
+{
+  "afrika": [
+    "Rwanda", "Zimbabwe", "Kongo", "Nigeria"
+  ],
+  "eropa": [
+    "Inggris", "Portugal", "Kazakhstan", "Jerman"
+  ],
+  "asia": [
+    "Indonesia", "Jepang", "India", "China"
+  ],
+  "amerika": [
+    "Mexico", "Venezuela", "Uruguay", "Chile"
+  ],
+  "australia": [
+    "Australia", "Queensland", "Victoria"
+  ]
+}
